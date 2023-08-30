@@ -1,4 +1,4 @@
-package GenerateArray
+package Generator
 
 import "math/rand"
 
